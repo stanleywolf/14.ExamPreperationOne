@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\LastArmy.Tests\bin\Debug\LastArmy.Tests.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\LastArmy.Tests\bin\Debug\LastArmy.Tests.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\LastArmy.Tests\bin\Debug\nunit.framework.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\LastArmy.Tests\bin\Debug\nunit.framework.xml
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\LastArmy.Tests\obj\Debug\LastArmy.Tests.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\LastArmy.Tests\obj\Debug\LastArmy.Tests.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\LastArmy.Tests\obj\Debug\LastArmy.Tests.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\LastArmy.Tests\obj\Debug\LastArmy.Tests.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\LastArmy.Tests\bin\Debug\Last Army.exe
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\LastArmy.Tests\bin\Debug\Last Army.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\LastArmy.Tests\bin\Debug\Last Army.exe.config

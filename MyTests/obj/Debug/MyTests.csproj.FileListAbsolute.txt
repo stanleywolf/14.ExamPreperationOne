@@ -1,0 +1,18 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\MyTests\bin\Debug\NUnit3.TestAdapter.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\MyTests\bin\Debug\NUnit3.TestAdapter.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\MyTests\bin\Debug\nunit.engine.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\MyTests\bin\Debug\nunit.engine.api.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\MyTests\bin\Debug\Mono.Cecil.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\MyTests\bin\Debug\MyTests.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\MyTests\bin\Debug\MyTests.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\MyTests\bin\Debug\Last Army.exe
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\MyTests\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\MyTests\bin\Debug\nunit.framework.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\MyTests\bin\Debug\Last Army.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\MyTests\bin\Debug\Last Army.exe.config
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\MyTests\bin\Debug\nunit.framework.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\MyTests\bin\Debug\nunit.framework.xml
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\MyTests\obj\Debug\MyTests.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\MyTests\obj\Debug\MyTests.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\MyTests\obj\Debug\MyTests.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\MyTests\obj\Debug\MyTests.pdb

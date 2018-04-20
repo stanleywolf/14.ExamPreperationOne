@@ -1,0 +1,13 @@
+C:\Users\sevda\Desktop\OOP\Army\The Last Army\Last Army\obj\Debug\Last Army.csprojResolveAssemblyReference.cache
+C:\Users\sevda\Desktop\OOP\Army\The Last Army\Last Army\bin\Debug\Last Army.exe.config
+C:\Users\sevda\Desktop\OOP\Army\The Last Army\Last Army\bin\Debug\Last Army.exe
+C:\Users\sevda\Desktop\OOP\Army\The Last Army\Last Army\bin\Debug\Last Army.pdb
+C:\Users\sevda\Desktop\OOP\Army\The Last Army\Last Army\obj\Debug\Last Army.exe
+C:\Users\sevda\Desktop\OOP\Army\The Last Army\Last Army\obj\Debug\Last Army.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\Last Army\obj\Debug\Last Army.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\Last Army\obj\Debug\Last Army.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\Last Army\obj\Debug\Last Army.exe
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\Last Army\obj\Debug\Last Army.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\Last Army\bin\Debug\Last Army.exe.config
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\Last Army\bin\Debug\Last Army.exe
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\14.ExamPreperationOne\Last Army\bin\Debug\Last Army.pdb
